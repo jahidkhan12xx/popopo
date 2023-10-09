@@ -1,0 +1,39 @@
+[
+    { "id" : 1,
+      "title": "Anime Screening",
+      "image": "https://i.ibb.co/cwcXQ3s/Neko-POP-Anisong-World-Matsuri-2018-Mayn-concert-2.jpg",
+      "price": 10.99,
+      "description": "Enjoy screenings of the latest and classic anime episodes on the big screen."
+    },
+    { "id" : 2,
+      "title": "Cosplay Contest",
+      "image": "https://i.ibb.co/WvS6v5w/Essential-accessories-when-cosplaying.jpg",
+      "price": 5.99,
+      "description": "Show off your amazing anime-themed costumes and win prizes."
+    },
+    { "id" : 3,
+      "title": "Artist Alley",
+      "image": "https://i.ibb.co/4fvXN2w/IMG-20190818-145212-2-d9444249.jpg",
+      "price": 0.00,
+      "description": "Browse and purchase artwork and merchandise from talented anime artists."
+    },
+    { "id" : 4,
+      "title": "Panel Discussions",
+      "image": "https://i.ibb.co/0yR2q3F/resized-anime-class.jpg",
+      "price": 7.99,
+      "description": "Engage with industry professionals and fellow fans in insightful discussions."
+    },
+    { "id" : 5,
+      "title": "Manga Swap",
+      "image": "https://i.ibb.co/JtrTDRF/love-gender-532194-1.jpg",
+      "price": 2.49,
+      "description": "Trade your manga collection with other enthusiasts and discover new titles."
+    },
+    { "id" : 6,
+      "title": "Virtual Reality Anime Experience",
+      "image": "https://i.ibb.co/hFtn2WP/Altdeus-Beyond-Chronos.png",
+      "price": 15.99,
+      "description": "Immerse yourself in the world of anime through a thrilling VR experience."
+    }
+  ]
+  

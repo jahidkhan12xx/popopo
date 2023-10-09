@@ -1,4 +1,4 @@
-import video from "./videoplayback (1).webm"
+import video from "/video.webm"
 import { FaFacebook,FaYoutube,FaTwitter } from 'react-icons/fa';
 
 const ContactUs = () => {

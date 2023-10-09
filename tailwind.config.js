@@ -8,8 +8,8 @@ export default {
     extend: {
       backgroundImage: {
         
-        logo : "url('./public/Colored Shapes.svg')",
-        itachi : "url('./src/components/Banner/wallpapersden.com_itachi-uchiha-digital-art_1920x1080.jpg')",
+        logo : "url('/Colored Shapes.svg')",
+        itachi : "url('/banner.jpg')",
         
       },
       fontFamily:{
